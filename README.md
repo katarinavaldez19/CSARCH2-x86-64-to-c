@@ -11,9 +11,9 @@ Members: Charlize Villaflores, Katarina Milcah Valdez
 This contains a short analysis and records of the average execution time for the array size inputs: *width* * *height*= {10 * 10, 100 * 100, and  1000 * 1000}.
 | 10 * 10 | 100 * 100 | 1000 * 1000 |
 | :---: | :---: | :---: | 
-| 0.000000 | 0.033333 | 2.800000 |
+| 0.000000ms | 0.033333ms | 2.800000ms |
 
-Based on the table given, these are the runtimes taken during the run of assembly function. From the table, we can see that 10 x 10 matrices are the fastest considering that they only take less than 1 nanosecond, while the other two, reasonable for their size, takes more than the aforementioned matrix size. 100 x 100 takes a longer time than the 10 x 10 matrix, however it is still fast considering that we are processing over 10000 float values and it does not take more than a second. Meanwhile, for the last matrix, it takes more than a second to process the function due to the array having 1 million float values, each having taken up 32-bit storage in the memory.
+Based on the table given, these are the runtimes taken during the run of assembly function. From the table, we can see that 10 x 10 matrices are the fastest considering that they only take less than 1 milliseconds, while the other two, reasonable for their size, takes more than the aforementioned matrix size. 100 x 100 takes a longer time than the 10 x 10 matrix, however it is still fast considering that we are processing over 10000 float values and it does not take more than a millisecond. Meanwhile, for the last matrix, it takes more than a millisecond to process the function due to the array having 1 million float values, each having taken up 32-bit storage in the memory.
 
 
 **Correctness Check**
