@@ -18,6 +18,7 @@ Based on the table given, these are the runtimes taken during the run of assembl
 
 For the first case, we used the test case presented in the specifications. Below is a screenshot of our command prompt containing the input and output, encircled in red.
 ![image](https://github.com/user-attachments/assets/05cb5ada-5666-42fa-8ca8-99418a5a6cce)
+
 ![lbyarch proof 1 2](https://github.com/user-attachments/assets/38e02fb8-8721-4c88-aad3-63d538f99276)
 
 Below is another random test case we did. To show the correctness of the output, we also included a snapshot of the calculator to show that the output was correctly calculated.
