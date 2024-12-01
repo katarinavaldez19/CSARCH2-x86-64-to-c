@@ -1,6 +1,12 @@
-# CSARCH2-x86-64-to-c
-
+# CSARCH2-x86-64-to-c programming
+Group 9 - S14
 Members: Charlize Villaflores, Katarina Milcah Valdez
+
+**Execution Time and Analysis**
+This contains a short analysis and records of the execution time for the array size inputs: *width* * *height*= {10 * 10, 100 * 100, and  1000 * 1000}.
+| 10 * 10 | 100 * 100 | 1000 * 1000 |
+| :---: | :---: | :---: | 
+| 301 | 283 | 290 |
 
 Specifications: 
 
