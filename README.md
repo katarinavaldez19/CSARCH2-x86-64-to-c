@@ -1,6 +1,8 @@
 # CSARCH2-x86-64-to-c programming
 Group 9 - S14
+
 Members: Charlize Villaflores, Katarina Milcah Valdez
+
 
 **Execution Time and Analysis**
 
@@ -11,6 +13,7 @@ This contains a short analysis and records of the average execution time for the
 
 Based on the table given, these are the runtimes taken during the run of assembly function. From the table, we can see that 10 x 10 matrices are the fastest considering that they only take less than 1 nanosecond, while the other two, reasonable for their size, takes more than the aforementioned matrix size. 100 x 100 takes a longer time than the 10 x 10 matrix, however it is still fast considering that we are processing over 10000 float values and it does not take more than a second. Meanwhile, for the last matrix, it takes more than a second to process the function due to the array having 1 million float values, each having taken up 32-bit storage in the memory.
 
+
 **Correctness Check**
 
 For the first case, we used the test case presented in the specifications. Below is a screenshot of our command prompt containing the input and output, encircled in red.
@@ -20,7 +23,7 @@ For the first case, we used the test case presented in the specifications. Below
 Below is another random test case we did. To show the correctness of the output, we also included a snapshot of the calculator to show that the output was correctly calculated.
 ![image](https://github.com/user-attachments/assets/03e2b00d-3710-42ee-aa33-caeb52b5c4cb)
 
-
+-----------------------------------------------------------------------------
 
 
 **Specifications:**
