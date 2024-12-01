@@ -19,12 +19,12 @@ Based on the table given, these are the runtimes taken during the run of assembl
 **Correctness Check**
 
 For the first case, we used the test case presented in the specifications. Below is a screenshot of our command prompt containing the input and output, encircled in red.
-![image](https://github.com/user-attachments/assets/05cb5ada-5666-42fa-8ca8-99418a5a6cce)
+![LBYARCH images (1)](https://github.com/user-attachments/assets/05ea557c-8955-4ebe-b70a-c13839075d10)
 
-![lbyarch proof 1 2](https://github.com/user-attachments/assets/38e02fb8-8721-4c88-aad3-63d538f99276)
 
 Below is another random test case we did. To show the correctness of the output, we also included a snapshot of the calculator to show that the output was correctly calculated.
-![image](https://github.com/user-attachments/assets/03e2b00d-3710-42ee-aa33-caeb52b5c4cb)
+![LBYARCH images](https://github.com/user-attachments/assets/f4668003-8f35-4018-a775-b44e4688d59f)
+
 
 
 **Video Presentation Google Drive Link:** https://drive.google.com/file/d/1naScTiWXJT7wM-79l37zZXr8q3JVJ1E-/view?usp=sharing
